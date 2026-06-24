@@ -1,0 +1,328 @@
+{
+  "business": {
+    "name": "DFW Power Wash",
+    "shortName": "DFW Power Wash",
+    "tagline": "Restoring Your Property’s Shine with Professional Pressure Washing in Dallas, TX",
+    "niche": "Pressure Washing",
+    "phone": "(817) 713-6318",
+    "address": "7220 Lavendale Cir, Dallas, TX 75230",
+    "city": "Dallas, TX",
+    "hours": "Mon–Fri 7am–7pm, Sat 8am–4pm",
+    "ctaLabel": "Get a Free Estimate",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "DFW Power Wash | Professional Pressure Washing in Dallas, TX",
+    "description": "DFW Power Wash offers top-rated pressure washing in Dallas, TX. Expert cleaning for driveways, siding, roofs, and more. Free estimates. Call (817) 713-6318."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Professional Pressure Washing in Dallas, TX",
+      "headline": "Revitalize Your Home or Business with Expert Power Washing",
+      "subheadline": "We deliver thorough, eco-friendly cleaning that boosts curb appeal and protects your investment. Trusted by homeowners and businesses across Dallas.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "See Our Work"
+    },
+    "stats": [
+      {
+        "value": "5.0",
+        "label": "Average Rating"
+      },
+      {
+        "value": "10+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "500+",
+        "label": "Properties Cleaned"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Driveway & Concrete",
+        "title": "Restore Your Driveway to Like-New Condition",
+        "body": "Oil stains, tire marks, and grime don’t stand a chance. Our hot water pressure washing removes deep-set dirt and stains, leaving your concrete clean and bright.",
+        "bullets": [
+          "Removes oil, grease, and rust stains",
+          "No harsh chemicals – safe for landscaping",
+          "Increases property value and curb appeal"
+        ],
+        "reverse": false,
+        "cardLabel": "Before & After",
+        "cardTitle": "Driveway Transformation",
+        "cardBody": "See the dramatic difference a professional power wash can make on your driveway or walkway."
+      },
+      {
+        "eyebrow": "House & Siding",
+        "title": "Gentle Yet Effective Siding Cleaning",
+        "body": "From vinyl to brick, we safely remove algae, mildew, and dirt without damaging your siding. Our soft wash technique preserves your home’s exterior while making it shine.",
+        "bullets": [
+          "Soft wash method protects paint and surfaces",
+          "Eliminates black streaks and mold growth",
+          "Long-lasting results with biodegradable detergents"
+        ],
+        "reverse": true,
+        "cardLabel": "Customer Favorite",
+        "cardTitle": "Full House Wash",
+        "cardBody": "Our most popular service – a complete exterior clean that transforms your home’s appearance."
+      }
+    ],
+    "whyTitle": "Why Dallas Homeowners Choose DFW Power Wash",
+    "whyChooseUs": [
+      {
+        "title": "5-Star Service",
+        "description": "We pride ourselves on consistent quality and customer satisfaction. Every job is backed by our satisfaction guarantee."
+      },
+      {
+        "title": "Eco-Friendly Cleaning",
+        "description": "We use biodegradable soaps and water-efficient methods to protect your plants, pets, and the environment."
+      },
+      {
+        "title": "Fully Insured & Licensed",
+        "description": "Your property is safe with us. We carry full liability insurance for your peace of mind."
+      },
+      {
+        "title": "Free Detailed Estimates",
+        "description": "No hidden fees. We provide transparent pricing upfront with a no-obligation quote before any work begins."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "DFW Power Wash did an amazing job on our driveway. It looks brand new! They were prompt, professional, and left everything spotless.",
+        "author": "Mike R.",
+        "role": "Lakewood Homeowner"
+      },
+      {
+        "quote": "I hired them to clean my home’s siding and roof. The team was courteous and the results exceeded my expectations. Highly recommend!",
+        "author": "Lisa T.",
+        "role": "Preston Hollow Resident"
+      },
+      {
+        "quote": "Great communication and excellent work. Our patio has never looked better. We’ll definitely use them again.",
+        "author": "David K.",
+        "role": "Oak Lawn Business Owner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Restore Your Property’s Shine?",
+      "subheadline": "Contact us today for a free estimate and see the DFW Power Wash difference.",
+      "primaryCta": "Call (817) 713-6318",
+      "secondaryCta": "Get a Free Quote"
+    }
+  },
+  "servicesPage": {
+    "intro": "DFW Power Wash provides comprehensive pressure washing services for residential and commercial properties in Dallas, TX. From driveways to roofs, we use industry-leading equipment and eco-friendly solutions to deliver a deep, lasting clean. Explore our services below."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Driveway & Concrete Cleaning",
+      "shortDescription": "Remove tough stains and grime from driveways, walkways, and patios.",
+      "longDescription": "Our hot water pressure washing system blasts away oil, grease, and embedded dirt, restoring your concrete to its original color. We treat all surfaces gently to avoid damage, leaving a clean, even finish.",
+      "benefits": [
+        "Eliminates oil stains and tire marks",
+        "No etching or surface damage",
+        "Enhances curb appeal and property value",
+        "Safe for surrounding landscaping"
+      ],
+      "process": [
+        {
+          "title": "Inspection & Pre-Treatment",
+          "description": "We assess the surface and apply an eco-friendly degreaser to break down stubborn stains."
+        },
+        {
+          "title": "Hot Water Power Wash",
+          "description": "Using high-pressure hot water, we thoroughly clean the concrete, reaching deep into pores."
+        },
+        {
+          "title": "Final Rinse & Seal (Optional)",
+          "description": "We rinse away all residue and can apply a protective sealant to extend the life of your clean."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Will pressure washing damage my driveway?",
+          "answer": "No, when done correctly. Our technicians use the proper pressure and technique to clean without etching or cracking. We adjust settings based on concrete condition."
+        },
+        {
+          "question": "How often should I have my driveway cleaned?",
+          "answer": "We recommend every 1-2 years to prevent stain buildup and maintain appearance. High-traffic areas may benefit from annual cleaning."
+        }
+      ],
+      "slug": "driveway-concrete-cleaning"
+    },
+    {
+      "icon": "02",
+      "title": "House & Siding Washing",
+      "shortDescription": "Gentle soft wash cleaning for vinyl, brick, stucco, and more.",
+      "longDescription": "Our soft wash method uses low pressure and specialized detergents to safely remove algae, mildew, and dirt from your home’s exterior. This technique protects paint, siding, and seals while delivering a brilliant clean.",
+      "benefits": [
+        "Safe for all siding types",
+        "Removes black streaks and organic growth",
+        "Prevents long-term damage from mold and mildew",
+        "Boosts curb appeal instantly"
+      ],
+      "process": [
+        {
+          "title": "Surface Evaluation",
+          "description": "We inspect your siding for damage and choose the right cleaning solution for the material."
+        },
+        {
+          "title": "Soft Wash Application",
+          "description": "We apply a biodegradable cleaner that kills mold and lifts dirt, then rinse gently."
+        },
+        {
+          "title": "Spot Treatment & Final Check",
+          "description": "We treat any remaining spots and ensure even coverage, leaving your home spotless."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Is soft washing safe for my plants?",
+          "answer": "Yes, we use plant-safe detergents and rinse thoroughly. We also wet down nearby vegetation before and after to prevent any stress."
+        },
+        {
+          "question": "How long does a house wash take?",
+          "answer": "Most single-story homes take 1-2 hours. Two-story homes may take 2-3 hours depending on size and condition."
+        }
+      ],
+      "slug": "house-siding-washing"
+    },
+    {
+      "icon": "03",
+      "title": "Roof Cleaning",
+      "shortDescription": "Remove moss, algae, and lichen without damaging shingles.",
+      "longDescription": "Our roof cleaning service uses a low-pressure soft wash to safely eliminate organic growth that can deteriorate shingles. We treat asphalt, tile, and metal roofs, extending their lifespan and improving energy efficiency.",
+      "benefits": [
+        "Extends roof life by preventing decay",
+        "Improves energy efficiency by reflecting heat",
+        "Enhances home appearance from the curb",
+        "No high-pressure damage to shingles"
+      ],
+      "process": [
+        {
+          "title": "Roof Inspection",
+          "description": "We check for loose shingles or damage and plan the safest cleaning route."
+        },
+        {
+          "title": "Soft Wash Treatment",
+          "description": "We apply a gentle cleaning solution that kills moss and algae without abrasive scrubbing."
+        },
+        {
+          "title": "Low-Pressure Rinse",
+          "description": "We rinse with low pressure to avoid lifting shingles, leaving a clean, uniform surface."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Will roof cleaning void my warranty?",
+          "answer": "No, our soft wash method is safe and recommended by most shingle manufacturers. We follow industry best practices."
+        },
+        {
+          "question": "How often should I clean my roof?",
+          "answer": "Every 2-3 years is typical, but homes in shaded or humid areas may need more frequent cleaning to prevent moss buildup."
+        }
+      ],
+      "slug": "roof-cleaning"
+    },
+    {
+      "icon": "04",
+      "title": "Commercial Pressure Washing",
+      "shortDescription": "Keep your business looking professional with regular cleaning.",
+      "longDescription": "We offer commercial pressure washing for storefronts, parking lots, sidewalks, and fleet vehicles. Our team works around your schedule to minimize disruption, delivering a clean that impresses customers and tenants.",
+      "benefits": [
+        "Enhances business image and foot traffic",
+        "Removes gum, oil, and graffiti",
+        "Meets safety and cleanliness standards",
+        "Flexible scheduling – after hours or weekends"
+      ],
+      "process": [
+        {
+          "title": "Site Assessment",
+          "description": "We evaluate the area and identify high-traffic zones, stains, and safety hazards."
+        },
+        {
+          "title": "Targeted Cleaning",
+          "description": "Using hot water and appropriate detergents, we clean surfaces efficiently, focusing on problem areas."
+        },
+        {
+          "title": "Post-Clean Walkthrough",
+          "description": "We review the results with you and ensure the property is safe and ready for use."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer recurring service contracts?",
+          "answer": "Yes, we provide monthly, quarterly, or annual plans to keep your property consistently clean. Ask about discounts for regular service."
+        },
+        {
+          "question": "Is your commercial cleaning eco-friendly?",
+          "answer": "Absolutely. We use biodegradable cleaners and recycle water when possible to minimize environmental impact."
+        }
+      ],
+      "slug": "commercial-pressure-washing"
+    }
+  ],
+  "about": {
+    "headline": "Dallas’s Trusted Pressure Washing Experts",
+    "mission": "Our mission is to deliver exceptional pressure washing services that restore and protect properties while providing outstanding customer experiences.",
+    "story": [
+      "DFW Power Wash was founded on the belief that every property deserves to look its best. Starting with a single truck and a commitment to quality, we’ve grown into a trusted name in Dallas pressure washing. Our founder, a lifelong Dallas resident, saw the need for reliable, eco-friendly cleaning that didn’t cut corners. Today, we serve hundreds of homeowners and businesses with the same dedication to detail.",
+      "We invest in the latest equipment and training to ensure every job is done safely and effectively. Our team is fully insured, and we stand behind our work with a satisfaction guarantee. From residential driveways to commercial storefronts, we treat each property as if it were our own."
+    ],
+    "highlight": {
+      "stat": "5.0",
+      "label": "Average Customer Rating"
+    },
+    "coreValues": [
+      {
+        "title": "Quality Workmanship",
+        "description": "We never rush a job. Every surface is cleaned with precision and care to deliver lasting results."
+      },
+      {
+        "title": "Customer Respect",
+        "description": "We communicate clearly, arrive on time, and leave your property better than we found it."
+      },
+      {
+        "title": "Environmental Stewardship",
+        "description": "We use biodegradable products and water-saving techniques to protect Dallas’s natural resources."
+      },
+      {
+        "title": "Continuous Improvement",
+        "description": "We stay updated on industry best practices and invest in new technology to serve you better."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get Your Free Estimate Today",
+    "subheadline": "Ready to transform your property? Call or fill out the form below and we’ll respond within 24 hours.",
+    "primaryCta": "Call (817) 713-6318",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Fort Worth",
+      "Arlington",
+      "Plano",
+      "Garland",
+      "Irving",
+      "Richardson",
+      "Mesquite"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Pressure Washing",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:8177136318",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
